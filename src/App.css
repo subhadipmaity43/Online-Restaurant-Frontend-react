@@ -1,0 +1,10 @@
+img {
+  max-width: 100%;
+}
+
+html {
+  scroll-behavior: smooth !important;
+}
+.btn.btn-primary {
+  color: #fff !important;
+}
